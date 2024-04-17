@@ -1,6 +1,6 @@
 # Rogério Pio
 
-Olá, sou o Rogério Pio, estudante de Ciência da computação na Universidade Federal do Ceará e entusiasta de tecnologias digitais. Atualmente estou focando meus estudos em Java e em segurança da informação.
+Olá, sou o Rogério Pio, estudante de Ciência da computação na Universidade Federal do Ceará e entusiasta de tecnologias digitais. Atualmente estou focando meus estudos em Java e em segurança da informação. Espero que gostem do meu perfil 🚀🚀
 
 ### Conecte-se comigo
 
@@ -24,4 +24,5 @@ Olá, sou o Rogério Pio, estudante de Ciência da computação na Universidade 
 ### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rogerio-pio&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rogerio-pio&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)

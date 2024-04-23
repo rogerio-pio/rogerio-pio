@@ -1,6 +1,6 @@
 # Rogério Pio
 
-Olá, sou o Rogério Pio, estudante de Ciência da computação na Universidade Federal do Ceará e entusiasta de tecnologias digitais. Atualmente estou focando meus estudos em Java e em segurança da informação 🚀🚀
+### Olá, sou o Rogério Pio, estudante de Ciência da computação na Universidade Federal do Ceará e entusiasta de tecnologias digitais. Atualmente estou focando meus estudos em Java e em segurança da informação 🚀🚀
 
 ### Conecte-se comigo
 

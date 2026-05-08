@@ -1,6 +1,6 @@
 # Rogério Pio
 
-#### Olá, sou o Rogério Pio, estudante de Ciência da computação na Universidade Federal do Ceará e entusiasta de tecnologias digitais. Atualmente estou focando meus estudos em programação com diversas linguagens mas em especial com ```JS com Node.Js``` 🚀🚀
+#### Olá, sou o Rogério Pio, estudante de Ciência da computação na Universidade Federal do Ceará e entusiasta de tecnologias digitais. Meu foco de estudos é ```Qualidade de Software!``` 🚀
 
 ### Conecte-se comigo
 
